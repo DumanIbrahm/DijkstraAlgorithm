@@ -1,2 +1,2 @@
 # DijkstraAlgorithm
-***Dijkstra Algorithm with Java***
+**Dijkstra Algorithm Implementation with Java**
